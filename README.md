@@ -4,7 +4,7 @@ Because it can be messy to have git config files in the DeployStudio Share, it's
 If you have to recreate the DS Share, you can use these steps.
 
 Clone the repo 
->git clone https://github.com/Workiva/OSX-Provisioning.git
+>git clone https://github.com/arunderwood/OSX-Provisioning.git
 
 Copy all the files except .git to the DeployStudio Share
 >mv OSX-Provisioning/!(.git) [NEW PATH]
